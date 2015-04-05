@@ -1,5 +1,5 @@
 # FirstGame
-a rock paper scissors game
+a rock paper scissors game (JavaScript)
 var userChoice = prompt("Do you choose rock, paper or scissors?");
 console.log("You: " + userChoice);
 var computerChoice = Math.random();
